@@ -1,0 +1,172 @@
+C:\Users\Liz89\source\repos\PWAPrueba\bin\PWAPrueba.dll.config
+C:\Users\Liz89\source\repos\PWAPrueba\bin\PWAPrueba.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\PWAPrueba.pdb
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\csc.exe
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\csc.exe.config
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\csc.rsp
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\csi.exe
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\csi.exe.config
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\csi.rsp
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.AppContext.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Console.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.IO.Compression.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Net.Http.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.ValueTuple.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\vbc.exe
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\vbc.exe.config
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\vbc.rsp
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\VBCSCompiler.exe
+C:\Users\Liz89\source\repos\PWAPrueba\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Liz89\source\repos\PWAPrueba\bin\Antlr3.Runtime.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\Newtonsoft.Json.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\System.Web.Helpers.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\System.Web.Mvc.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\System.Web.Optimization.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\System.Web.Razor.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\System.Web.WebPages.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\System.Web.WebPages.Razor.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\WebGrease.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\System.Web.Helpers.xml
+C:\Users\Liz89\source\repos\PWAPrueba\bin\System.Web.Mvc.xml
+C:\Users\Liz89\source\repos\PWAPrueba\bin\System.Web.Optimization.xml
+C:\Users\Liz89\source\repos\PWAPrueba\bin\System.Web.Razor.xml
+C:\Users\Liz89\source\repos\PWAPrueba\bin\System.Web.WebPages.xml
+C:\Users\Liz89\source\repos\PWAPrueba\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Liz89\source\repos\PWAPrueba\bin\System.Web.WebPages.Razor.xml
+C:\Users\Liz89\source\repos\PWAPrueba\bin\Newtonsoft.Json.xml
+C:\Users\Liz89\source\repos\PWAPrueba\bin\Antlr3.Runtime.pdb
+C:\Users\Liz89\source\repos\PWAPrueba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Liz89\source\repos\PWAPrueba\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\es\System.Web.Razor.resources.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Liz89\source\repos\PWAPrueba\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Liz89\source\repos\PWAPrueba\obj\Debug\PWAPrueba.csproj.AssemblyReference.cache
+C:\Users\Liz89\source\repos\PWAPrueba\obj\Debug\PWAPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Liz89\source\repos\PWAPrueba\obj\Debug\PWAPrueba.csproj.Up2Date
+C:\Users\Liz89\source\repos\PWAPrueba\obj\Debug\PWAPrueba.dll
+C:\Users\Liz89\source\repos\PWAPrueba\obj\Debug\PWAPrueba.pdb
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\PWAPrueba.dll.config
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\PWAPrueba.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\PWAPrueba.pdb
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\csc.exe
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\csc.exe.config
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\csc.rsp
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\csi.exe
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\csi.exe.config
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\csi.rsp
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.AppContext.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Console.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.IO.Compression.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Net.Http.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.ValueTuple.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\vbc.exe
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\vbc.exe.config
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\vbc.rsp
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\VBCSCompiler.exe
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\Antlr3.Runtime.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\Newtonsoft.Json.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\System.Web.Helpers.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\System.Web.Mvc.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\System.Web.Optimization.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\System.Web.Razor.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\System.Web.WebPages.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\System.Web.WebPages.Razor.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\WebGrease.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\System.Web.Helpers.xml
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\System.Web.Mvc.xml
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\System.Web.Optimization.xml
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\System.Web.Razor.xml
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\System.Web.WebPages.xml
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\System.Web.WebPages.Razor.xml
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\Newtonsoft.Json.xml
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\Antlr3.Runtime.pdb
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\es\System.Web.Razor.resources.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\obj\Debug\PWAPrueba.csproj.AssemblyReference.cache
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\obj\Debug\PWAPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\obj\Debug\PWAPrueba.csproj.Up2Date
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\obj\Debug\PWAPrueba.dll
+C:\Users\Liz89\Documents\CUC\Programación V\PWAPrueba\obj\Debug\PWAPrueba.pdb

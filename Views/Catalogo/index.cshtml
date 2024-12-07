@@ -1,0 +1,55 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="~/css/EstiloCatalogo.css"/>
+    <link rel="manifest" href="/manifest.json"/>
+    <title>index</title>
+</head>
+<body>
+    <h2>Catálogo de Productos</h2>
+
+    <div class="catalog-container">
+        <div class="product-card">
+            <img src="/images/Producto1.jpg" alt="Bioritmo - Macrobiótica">
+            <h3>Producto 1</h3>
+            <p>Precio: $20.00</p>
+            <button class="add-to-cart-btn">Agregar al Carrito</button>
+        </div>
+
+        <div class="product-card">
+            <img src="/images/Producto2.jpg" alt="Bioritmo - Macrobiótica">
+            <h3>Producto 2</h3>
+            <p>Precio: $35.00</p>
+            <button class="add-to-cart-btn">Agregar al Carrito</button>
+        </div>
+
+        <div class="product-card">
+            <img src="/images/Producto3.jpg" alt="Bioritmo - Macrobiótica">
+            <h3>Producto 3</h3>
+            <p>Precio: $15.50</p>
+            <button class="add-to-cart-btn">Agregar al Carrito</button>
+        </div>
+
+        <div class="product-card">
+            <img src="/images/Producto4.jpg" alt="Bioritmo - Macrobiótica">
+            <h3>Producto 4</h3>
+            <p>Precio: $45.00</p>
+            <button class="add-to-cart-btn">Agregar al Carrito</button>
+        </div>
+    </div>
+    <script>
+    if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.register("/service-worker.js")
+            .then(() => console.log("Service Worker registrado correctamente."))
+            .catch((error) => console.error("Error al registrar el Service Worker:", error));
+    }
+    </script>
+</body>
+</html>
